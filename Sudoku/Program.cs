@@ -11,7 +11,7 @@ namespace Sudoku
         static void Main(string[] args)
         {
             fasdfafkhj
-                asdfasdfsdfsdfdasdas
+                asdfasd
         }fsdfsdffsdfsdf
     }
 }
