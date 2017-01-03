@@ -10,7 +10,7 @@ namespace Sudoku
     {
         static void Main(string[] args)
         {
-            fasdfaf
+            fasdfafkhj
         }
     }
 }
